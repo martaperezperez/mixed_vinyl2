@@ -1,0 +1,5 @@
+{
+    "require": {
+        "knplabs/knp-time-bundle": "^1.20"
+    }
+}
