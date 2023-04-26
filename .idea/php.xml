@@ -74,6 +74,11 @@
       <path value="$PROJECT_DIR$/start/vendor/symfony/yaml" />
       <path value="$PROJECT_DIR$/start/vendor/symfony/event-dispatcher-contracts" />
       <path value="$PROJECT_DIR$/start/vendor/symfony/cache-contracts" />
+      <path value="$PROJECT_DIR$/start/vendor/symfony/http-client" />
+      <path value="$PROJECT_DIR$/start/vendor/symfony/http-client-contracts" />
+      <path value="$PROJECT_DIR$/start/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/start/vendor/symfony/maker-bundle" />
+      <path value="$PROJECT_DIR$/start/vendor/doctrine/inflector" />
     </include_path>
   </component>
   <component name="PhpProjectSharedConfiguration" php_language_level="8.1" />
